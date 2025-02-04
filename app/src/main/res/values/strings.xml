@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Android_app</string>
+    <string name="Информация_за_автора">Информация за автор</string>
+    <string name="Информация_за_книги">Информация за книга</string>
+    <string name="Заглавие1">Всички автори</string>
+    <string name="Име">Име</string>
+    <string name="Фамилия">Фамилия</string>
+    <string name="Страна">Страна</string>
+    <string name="Заглавие">Заглавие</string>
+    <string name="курс">курс</string>
+    <string name="Жанр_на_книга">Жанр</string>
+    <string name="Дата_на_публикуване">Дата</string>
+    <string name="Автор_на_книга">Автор</string>
+    <string name="Всички_книги">Всички книги</string>
+
+
+</resources>
